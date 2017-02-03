@@ -4,7 +4,7 @@
 class Mtu < Formula
     homepage "http://confluence.tango.corp/pages/viewpage.action?pageId=5716692"
     url "https://github.tango.me/client-qa/mtu.git"
-    version "3.2.0"
+    version "3.3.0"
 
     depends_on 'bash'
     depends_on 'python'
